@@ -1,0 +1,46 @@
+#div1{
+	display: flex;
+height:430px;
+width: 99%;
+background-color:#e70000;
+margin-bottom:0px;
+}
+#div2{
+display: flex;
+}
+#div3{
+height:280px;
+width:484px;
+background-color:brown;
+border-right:3px solid #e70000;
+justify-content: center;
+}
+#div4{
+height:280px;
+width:484px;
+background-color:brown;
+border-right:3px solid red;
+}
+#div5{
+height:280px;
+width:485px;
+background-color:brown;
+}
+#d1{
+height: 430px;
+    width: 40%;
+    margin-top: 140px;
+    margin-left: 78px;
+}
+div{
+color:white;
+}
+#d2
+{
+	margin-left: 202px;
+    margin-top: 96px;
+}
+#d3{
+margin-left: 32px;
+margin-right: 32px;
+}
