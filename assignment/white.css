@@ -1,0 +1,124 @@
+html
+{
+	overflow: hidden;
+}
+.horizontal-list
+{
+	list-style: none;
+	padding: 0px;
+}
+.horizontal-list li
+{
+	display: inline-block;
+	margin: 0px 26px 0px 26px;
+	position:relative;
+	left: 600px;
+	bottom: 77px;
+}
+.horizontal-list li a {
+	text-decoration: none;
+	color: black;
+}
+horizontal-list li a:hover{
+	color: black;
+}
+.nav
+{
+	padding: 20px 0px 0px 200px;
+
+}
+.img{
+	height: 300px;
+	width: 50%;
+	position:relative;
+	bottom: 30px;
+
+}
+.box {
+    height: 300px;
+    width: 229px;
+    bottom: 335px;
+    left: 856px;
+    position: relative;
+    background-color: black;
+}
+.text1
+{
+	font-size: 40px;
+}
+.text1-over-image
+{position: relative;
+    bottom: 454px;
+    background-color: black;
+    color: white;
+    width: 445px;
+    font-size: 30px;
+    opacity: 0.60;
+}
+.text2-over-image
+{position: relative;
+    bottom: 450px;
+    background-color: black;
+    color: white;
+    width: 350px;
+    font-size: 30px;
+    opacity: 0.60;
+}
+.text3-over-image
+{position: relative;
+    bottom: 446px;
+    background-color: black;
+    color: white;
+    width: 350px;
+    font-size: 30px;
+    opacity: 0.60;
+}
+.text2
+{
+	width: 23%;
+}
+.content
+{
+	position: relative;
+	bottom: 450px;
+}
+.content1
+{
+	position: relative;
+	bottom: 764px;
+	left: 440px;
+}
+.hr{
+	width: 400px; 
+	position: absolute;
+	top:40px;
+}
+.content2
+{
+position: relative;
+    bottom: 1063px;
+    left: 890px;
+    width: 55%;
+}
+}
+.content2 img
+{
+	width: 20px;
+}
+.img1
+{
+	margin-right:40px ;
+}
+.button
+{
+	background-color: black;
+	color: white;
+	position: relative;
+	bottom: 1000px;
+}
+.hr1{
+	position: relative;
+    bottom: 1000px;
+    width: 66%;
+    right: 289px;
+}
