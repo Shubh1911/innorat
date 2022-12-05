@@ -1,0 +1,338 @@
+.horizontal-list li
+{
+display: inline;
+margin-left:10px;
+margin-right: 10px;
+}
+.horizontal-list
+{
+	float: right;
+}
+body
+{
+	margin: 0px auto;
+	max-width: 60%;
+	overflow-x: hidden;
+	position: relative;
+}
+header
+{
+	margin-top:20px;
+}
+.inp
+{
+	border-radius: 30px;
+}
+.horizontal-list li:hover
+{
+	color: #8f41d5;
+border-bottom: 2px solid #dd38b4;
+padding-bottom:5px;
+} 
+main{
+margin-top: 100px;
+    height: 500px;
+}
+.img{
+
+	float: right;
+}
+main p{
+	font-size: 30px;
+	color: #dd38b4;
+	margin-top:100px ;
+	float: left;
+}
+main b{
+	font-size: 80px;
+	color: black;
+}
+main small{
+color: black;
+}
+
+.main
+{
+	width: 100%;
+    display: -webkit-inline-box;
+    height: 220px;
+}
+.main1 small
+{
+	font-size: 20px;
+}
+
+section{
+margin-top: 100px;
+    height: 700px;
+}
+.img1{
+
+	float: left;
+}
+section p{
+	font-size: 20px;
+	color: #dd38b4;
+}
+section b{
+	font-size:40px;
+	color: black;
+}
+section small{
+color: black;
+}
+.design
+{
+
+	float:right;
+	margin-top: 100px;
+}
+
+.head img
+{
+	float: left;
+	height: 60px;
+	width: 60px;
+}
+.head p{
+	float: right;
+	color: #8f41d5;
+}
+.head
+{
+    margin-right: 100px;
+    margin-left: 50px;
+    height: 135px;
+}
+.para
+{
+	float: left;
+}
+
+.main1 hr{
+	width: 15px;
+	float: left;
+	margin-top: 22px;
+border-color: #dd38b4;
+}
+.main1 b
+{
+font-size: 30px;
+color:#8f41d5;
+margin-right: 115px;
+}
+.cards
+{
+	margin-top: 27px;
+    width: 15%;
+    background: white;
+    padding-top: 30px;
+    padding-left: 47px;
+    height: 242px;
+    margin: 87px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 10px grey;
+}
+.cards h2
+{
+	color:#8f41d5;
+
+}
+.footer
+{
+	margin-top:30px;
+	font-size: 20px;
+}
+.cards:hover
+{
+	background:#8f41d5;
+color: white;
+}
+.cards:hover .about h2
+{
+color: white;
+}
+.section
+{
+	position: relative;
+    height: 750px;
+    right: 422px;
+    width: 170%;
+    background: #f6f7fc;
+}
+#card1
+{
+	position: absolute;
+    left: 450px;
+}
+#card2
+{
+	position: absolute;
+    left:450px;
+    top: 305px;
+}
+#card3
+{
+position: absolute;
+    left: 835px;
+    top: 26px;
+}
+
+#card4
+{
+position: absolute;
+    left: 835px;
+    top: 340px;
+}
+
+#card5
+{
+margin-top: 27px;
+    width: 15%;
+    padding-top: 30px;
+    padding-left: 47px;
+    height: 250px;
+    margin: 87px;
+    top: 165px;
+    right: 235px;
+    border-radius: 30px;
+    position: absolute;
+}
+#card5 b{
+	font-size: 30px;
+}
+.heading
+{
+	color: #8f41d5;
+}
+#button{
+height: 50px;
+    width: 110px;
+    border-radius: 25px;
+}
+#button:hover
+{
+	background-color:#8f41d5;
+	color: white;
+}
+.top{
+	text-align: center;
+	margin-top: 100px;
+}
+.top small
+{
+	color:#dd38b4;
+	font-size: 15px;
+}
+.top b{
+	font-size: 40px;
+}
+.img-section
+{
+	width: 204px;
+    height: 261px;
+    position: relative;
+    margin: 55px -76px 0px 190px;
+    opacity: 0.5;
+    float: left;
+}
+.img-section:hover
+{
+	opacity: 1;
+	color: #8f41d5;
+}
+.img-section:hover .img-about small
+{
+	color:black;
+}
+.img-about
+{
+	width: 204px;
+    text-align: center;
+    height: 45px;
+    position: absolute;
+    top: 228px;
+    left: 40px;
+    background-color: white;
+    box-shadow: 1px 1px 10px #ccc;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+.main2
+{
+	height: 850px;
+}
+
+.section1 hr{
+	width: 25px;
+	float: left;
+border-color: #dd38b4;
+}
+.section1
+{
+	position: relative;
+	margin-top: 50px;
+}
+#img3
+{
+	position: absolute;
+    height: 233px;
+    left: -402px;
+    width: 441px;
+    top: -50px;
+}
+.dis{
+	margin-left: 55px;
+	margin-right: 50px;
+	float: left;
+}
+.dis b{
+	font-size: 40px;
+}
+.rect{
+	height: 70px;
+	width: 100%;
+	margin-top: 265px;
+	margin-bottom: 50px;
+	background-color: #8f41d5;
+	border-radius: 20px;
+}
+.rect p{
+	float: left;
+	color: white;
+	margin:30px 0px 0px 50px;
+}
+.rect button
+{
+	float: right;
+	margin:25px 30px 0px 0px;
+	border-radius: 20px;
+	height: 30px;
+	width: 145px;
+}
+.rect button:hover
+{
+	background: #8f41d5;
+	color: white;
+}
+.foot1
+{
+	width: 30%;
+}
+.float-left
+{
+	float: left;
+	margin-right: 116px;
+}
+#para
+{
+	color:#dd38b4;
+}
+#para1
+{
+	color: #8f41d5;
+}
+.line hr{
+	margin-top: 260px;
+	margin-bottom: 40px;
+}
